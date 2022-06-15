@@ -7,4 +7,4 @@ Note: Have Fun
 
 Features : ChangeServerName, CreateRoles, DeleteAllChannels, CreateChannels, SpamMP, Spam(in channels), BanEveryone
 
-By CR4SH3D (https://github.com/crashedjs)
+By CR4SH3D (https://github.com/crashixx/B00M3R)
