@@ -96,8 +96,6 @@ async def create_text_channels(guild):
         except:
             pass
 
-
-
 async def spam_in_channels(guild):
     for _ in range(int(nb_spam)):
         try:
@@ -106,9 +104,7 @@ async def spam_in_channels(guild):
                     await i.send(spam)
         except:
             pass
-
-
-
+        
 async def nuke(guild):
     await guild.edit(name=sname)
     await guild.edit(icon=None)
@@ -120,6 +116,7 @@ async def nuke(guild):
     await spam_members(guild)
     await spam_in_channels(guild)
 
+    
 #Bot 
 bot = discord.Client()
 
