@@ -1,3 +1,5 @@
+#Disclaimer: B00M3R is a discord server raider developed by CR4SH3D for educational purposes
+#By CR4SH3D (https://github.com/crashixx/B00M3R)
 
 from os import system as sys
 import discord
