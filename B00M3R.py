@@ -33,6 +33,7 @@ def clear():
 token = input(f"->Enter the bot token: ")
 print("------------------------------------------")
 sname = input("\nEnter the new server name here -> ")
+title()
 cmd = input("\nEnter the bot realase command (!nuke, hello....) here -> ")
 title()
 spam = input("\nEnter your message to spam (in server) here ->")
