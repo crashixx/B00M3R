@@ -1,6 +1,6 @@
 # B00M3R
 
-![Logo](https://imgur.com/yns4Kgy.png)
+![Logo](https://imgur.com/zblTubh.png)
 
 Disclaimer: B00M3R is a discord server raider developed by CR4SH3D for educational purposes
 
