@@ -17,7 +17,7 @@ B00M3R is a simple tool for raiding discord servers with a bot
 - Spam messages (@everyone) in server channels
 - Ban everyone
 
-## Requirement 
+## Requirements
 - Windows OS only
 - Python 3.x installed (unless it is a exe)
 - Modules: pypresence, discord, discord.ext (unless it is a exe)
