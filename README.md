@@ -1,13 +1,42 @@
-# B00M3R
 
 ![Logo](https://imgur.com/zblTubh.png)
 
-Disclaimer: B00M3R is a discord server raider developed by CR4SH3D for educational purposes
 
-Usage: Run B00M3R.py and follow the intructions. If the bot doesnt work make sure you have activated all Gateways intents on the discord developer portal
+# B00M3R
 
-Note: Have Fun 
+B00M3R is a simple tool for raiding discord servers with a bot 
 
-Features : ChangeServerName, CreateRoles, DeleteAllChannels, CreateChannels, SpamMP, Spam(in channels), BanEveryone
 
-By CR4SH3D (https://github.com/crashixx/B00M3R)
+## Features
+
+- Change server name
+- Create many roles
+- Delete all channels
+- Create channels
+- Spam DM
+- Spam messages (@everyone) in server channels
+- Ban everyone
+
+## Requirement 
+- Windows OS only
+- Python 3.x installed *
+- Modules: pypresence, discord, discord.ext *
+- Discord bot
+
+
+## How to use ?
+
+Run B00M3R and follow the instructions..
+
+```bash
+python B00M3R.py
+```
+- Note: If the bot doesnt work make sure you have activated all Gateways intents on the discord developer portal
+
+## Disclaimer 
+- Only for educationnal purposes
+- I decline any responsibility in case of misuse of this code.
+
+## Author
+
+- [@crashixx](https://github.com/crashixx)
