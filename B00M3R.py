@@ -127,7 +127,7 @@ bot = discord.Client()
 async def on_ready():
     sys("cls")
     print(f"B00M3R by CR4SH3D\n")
-    print("Le bot est prêt !")
+    print("Bot ready !")
 
 #Bot command 
 @bot.event
