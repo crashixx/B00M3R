@@ -19,8 +19,8 @@ B00M3R is a simple tool for raiding discord servers with a bot
 
 ## Requirement 
 - Windows OS only
-- Python 3.x installed *
-- Modules: pypresence, discord, discord.ext *
+- Python 3.x installed (unless it is a exe)
+- Modules: pypresence, discord, discord.ext (unless it is a exe)
 - Discord bot
 
 
@@ -40,3 +40,4 @@ python B00M3R.py
 ## Author
 
 - [@crashixx](https://github.com/crashixx)
+
